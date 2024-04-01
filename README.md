@@ -44,3 +44,7 @@ I found during the process.
 - 3 & 5
 - 6 & 7
 
+## Prerequisits:
+1. basic knowledge of PHP
+2. basic knowledge of interacting with a terminal
+3. running linux when following the guide
