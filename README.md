@@ -48,3 +48,4 @@ I found during the process.
 1. basic knowledge of PHP
 2. basic knowledge of interacting with a terminal
 3. running linux when following the guide
+4. PHP > 7.4 is installed
