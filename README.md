@@ -39,8 +39,8 @@ I found during the process.
 7. add script to bin
 
 ## Topic groups:
-- 1.,2.
-- 4.
-- 3.,5.
-- 6., 7.
+- 1 & 2
+- 4
+- 3 & 5
+- 6 & 7
 
