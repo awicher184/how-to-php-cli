@@ -2,7 +2,7 @@
 <?php
 function checkEnv(): void {
 	$version = explode('.', phpversion());
-	if ((int) $version[0] < 7) {
+	if ((int) $version[0] < 7 && (int) $version[1] < 4) {
 		die('Unsupported PHP version. Please update to version >= 7');
 	}
 
