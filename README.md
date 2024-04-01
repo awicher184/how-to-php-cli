@@ -3,7 +3,7 @@ A guide on how to write a PHP script that will be run as a cli utility or tool.
 
 something like:
 ```bash
-praisethephp -x -a -vvv --input=some/file --output=another/file
+utility -x -a -vvv --input=some/file --output=another/file
 ```
 Although I use the object oriented approach to PHP on a daily basis, I will not use objects or classes
 in this repo.
@@ -46,6 +46,6 @@ I found during the process.
 
 ## Prerequisits:
 1. basic knowledge of PHP
-2. basic knowledge of interacting with a terminal
-3. running linux when following the guide
-4. PHP > 7.4 is installed
+1. basic knowledge of interacting with a terminal
+1. running linux when following the guide
+1. PHP > 7.4 is installed
